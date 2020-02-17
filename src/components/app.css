@@ -1,0 +1,247 @@
+.Calque-0 {
+  width: 720px;
+  height: 500px;
+  background-color: #ffffff;
+  margin: 10% 30%;
+}
+
+.Rectangle-52 {
+  width: 580px;
+  height: 44px;
+  background-color: #f5f4f4;
+  margin-left: 70px;
+  margin-right: 70px;
+  color: #777777;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.6px;
+  text-align: center;
+}
+.Rectangle-52 span{
+  font-weight: 400;
+}
+#panel1d-content .MuiExpansionPanelDetails-root{padding: 0 16px !important;}
+.MuiExpansionPanelSummary-root {
+  padding: 0 18px 0 18px !important;}
+a.showmore {
+    padding: 0 20px 13px 20px;
+    font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #0c0f9e;
+  font-family: 'Fira Sans', sans-serif;
+  text-decoration: none;
+
+}
+.Rectangle-52-copie {
+  width: 580px;
+  height: auto;
+  background-color: #f5f4f4;
+  margin: 18px 70px 2px 70px;
+  padding-bottom: 17px;
+}
+.MuiIconButton-root:hover {
+  background-color: transparent !important;
+}
+.Rectangle-53 {
+  width: 582px;
+  height: 53px;
+  border: solid 1px #ffffff;
+  background-color: #f5f4f4;
+  margin-bottom: 37px;
+  margin-left: 70px;
+}
+
+.Image-klay-copie {
+  width: 25px;
+  height: 25px;
+  margin-top: 15px;
+}
+
+.Ajouter-un-commentaire {
+  width: 520px;
+  height: 14px;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.65px;
+  text-align: left;
+  color: var(--warm-grey);
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.MuiExpansionPanelActions-root {
+  justify-content: flex-start !important;
+}
+.MuiFab-label {
+  font-family: 'Fira Sans', sans-serif;
+  color: #777777;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  text-align: left;
+}
+.MuiFab-label img {
+  margin-right: 7px;
+  width: 19px;
+  height: 14px;
+}
+.userProfile {
+  display: flex;
+}
+.userProfile .Image-curry {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+}
+.userProfile .image-title {
+  font-size: 10px;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 13px;
+  letter-spacing: 0.65px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.55px;
+  text-align: left;
+  color: #777777;
+  display: flex;
+  align-items: center;
+}
+.userProfile .image-title span {
+  font-weight: 400;
+}
+.userProfile span.heart-userlike{
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+.userProfile span p {
+  margin: 0;
+  font-size: 10px;
+  color: #777777;
+  margin-left: 3px;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  text-align: left;
+}
+.makeStyles-root-98 {
+  width: 570px  !important;
+  margin-left: 72px  !important;
+  box-shadow: none !important;
+}
+.makeStyles-margin-1 {
+  margin-left: 5px !important;
+  margin-top: 0px!important;
+}
+.WithStyles{
+  margin-bottom: 0 !important;  
+  background-color: #f5f4f4 !important;
+}
+.MuiTypography-body1 {
+  font-family: 'Fira Sans', sans-serif !important;
+  font-size: 11.1px !important;
+  font-weight: normal !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: normal !important;
+  letter-spacing: 0.56px !important;
+  text-align: left;
+  color: #777777;
+}
+.replies {
+  margin-left: 50px;
+}
+.MuiFab-root{
+  box-shadow: none !important;
+}
+.replies .MuiPaper-root{border:none;}
+.MuiExpansionPanel-root.Mui-expanded {
+  border: none !important;
+}
+.MuiExpansionPanelSummary-content {
+  background-color: #f5f4f4;
+}
+.MuiExpansionPanelDetails-root {
+  background-color: #f5f4f4;
+}
+.MuiExpansionPanelActions-root {
+  background-color: #f5f4f4;
+}
+.border-none {
+  border: none !important;
+}
+.emojis-box {
+  background: #fff;
+  position: absolute;
+  top: -28px;
+  border-radius: 19px;
+  display: none;
+}
+.emojis-box ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+.emojis-box ul li {
+  list-style-type: none;
+  padding: 4px;
+  font-size: 19px;
+}
+.MuiFab-extended.MuiFab-sizeSmall {
+  position: relative;
+}
+.MuiFab-extended.MuiFab-sizeSmall:hover .emojis-box.active {
+  display: flex;
+}
+.MuiFab-primary {
+  background: #fff !important;
+  color: #777777 !important;
+}
+.MuiFab-primary:focus {
+  /* background: #0c15a0 !important; */
+  color: #777777 !important;
+}
+u {
+  cursor: pointer;
+}
+.MuiInputBase-inputMultiline{
+  font-family: 'Fira Sans', sans-serif !important;
+  font-size: 13px !important;
+  font-weight: normal !important;
+  font-stretch: normal !important;
+  font-style: normal !important;
+  line-height: normal !important;
+  letter-spacing: 0.65px !important;
+  text-align: left !important;
+  color: #777777 !important;
+}
+
+.MuiFab-primary:hover .emojis-box {display: block !important;}
+.emojis-box{top: -28px !important;}
+.MuiFab-primary:hover {
+  background-color: #303f9f !important;
+  color: #ffffff !important ;
+}
