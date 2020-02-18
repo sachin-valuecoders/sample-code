@@ -1,3 +1,6 @@
+/* 
+this action is using for adding comments..
+*/
 export const addComment = (id, comment, dispatch) => {
   const dispatchObj = {
     type: "ADD_COMMENT",
@@ -10,7 +13,9 @@ export const addComment = (id, comment, dispatch) => {
   }
   return dispatch(dispatchObj);
 }
-
+/* 
+this action is using for reply..
+*/
 export const addReply = (commentId, replyId, comment, dispatch) => {
   const dispatchObj = {
     type: "ADD_REPLY",
@@ -24,7 +29,9 @@ export const addReply = (commentId, replyId, comment, dispatch) => {
   }
   return dispatch(dispatchObj);
 }
-
+/* 
+this action is using for like to comment..
+*/
 export const likeOnComment = (id, likes, dispatch) => {
   const dispatchObj = {
     type: "LIKE_ON_COMMENT",
@@ -35,7 +42,9 @@ export const likeOnComment = (id, likes, dispatch) => {
   }
   return dispatch(dispatchObj);
 }
-
+/* 
+this action is using for like to reply..
+*/
 export const likeOnReply = (commentId, replyId, likes, dispatch) => {
   const dispatchObj = {
     type: "LIKE_ON_REPLY",
